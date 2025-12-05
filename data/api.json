@@ -1,0 +1,244 @@
+{
+  "cafeteria": [
+    {
+      "id": 1,
+      "nome": "Café Expresso",
+      "descricao": "Café expresso tradicional italiano",
+      "preco": 5.50,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=400"
+    },
+    {
+      "id": 2,
+      "nome": "Cappuccino",
+      "descricao": "Café com leite vaporizado e espuma",
+      "preco": 8.00,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=400"
+    },
+    {
+      "id": 3,
+      "nome": "Café Latte",
+      "descricao": "Café suave com muito leite",
+      "preco": 9.00,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?w=400"
+    },
+    {
+      "id": 4,
+      "nome": "Mocha",
+      "descricao": "Café com chocolate e chantilly",
+      "preco": 10.50,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1607260550778-aa9d29444ce1?w=400"
+    },
+    {
+      "id": 5,
+      "nome": "Macchiato",
+      "descricao": "Expresso com toque de leite",
+      "preco": 7.00,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1599639957043-f3aa5c986398?w=400"
+    },
+    {
+      "id": 6,
+      "nome": "Café Americano",
+      "descricao": "Expresso diluído em água quente",
+      "preco": 6.00,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=400"
+    },
+    {
+      "id": 7,
+      "nome": "Café Gelado",
+      "descricao": "Café frio com gelo",
+      "preco": 8.50,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=400"
+    },
+    {
+      "id": 8,
+      "nome": "Frappuccino",
+      "descricao": "Café batido com gelo e chantilly",
+      "preco": 12.00,
+      "categoria": "Cafés",
+      "imagem": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=400"
+    },
+    {
+      "id": 9,
+      "nome": "Croissant",
+      "descricao": "Croissant francês tradicional",
+      "preco": 7.50,
+      "categoria": "Pães",
+      "imagem": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400"
+    },
+    {
+      "id": 10,
+      "nome": "Pão de Queijo",
+      "descricao": "Pão de queijo mineiro quentinho",
+      "preco": 4.00,
+      "categoria": "Pães",
+      "imagem": "https://images.unsplash.com/photo-1618164436241-4473940d1f5c?w=400"
+    },
+    {
+      "id": 11,
+      "nome": "Baguete",
+      "descricao": "Baguete francesa crocante",
+      "preco": 8.00,
+      "categoria": "Pães",
+      "imagem": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400"
+    },
+    {
+      "id": 12,
+      "nome": "Muffin de Chocolate",
+      "descricao": "Muffin com pedaços de chocolate",
+      "preco": 9.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1607920591413-4ec007e70023?w=400"
+    },
+    {
+      "id": 13,
+      "nome": "Brownie",
+      "descricao": "Brownie de chocolate denso",
+      "preco": 10.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?w=400"
+    },
+    {
+      "id": 14,
+      "nome": "Cheesecake",
+      "descricao": "Cheesecake cremoso com calda",
+      "preco": 14.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1533134486753-c833f0ed4866?w=400"
+    },
+    {
+      "id": 15,
+      "nome": "Cookie",
+      "descricao": "Cookie crocante com gotas de chocolate",
+      "preco": 5.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=400"
+    },
+    {
+      "id": 16,
+      "nome": "Torta de Limão",
+      "descricao": "Torta de limão com merengue",
+      "preco": 12.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=400"
+    },
+    {
+      "id": 17,
+      "nome": "Macaron",
+      "descricao": "Macaron francês de várias cores",
+      "preco": 6.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1569864358642-9d1684040f43?w=400"
+    },
+    {
+      "id": 18,
+      "nome": "Tiramisu",
+      "descricao": "Sobremesa italiana com café",
+      "preco": 15.00,
+      "categoria": "Doces",
+      "imagem": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400"
+    },
+    {
+      "id": 19,
+      "nome": "Sanduíche Natural",
+      "descricao": "Sanduíche integral com frango",
+      "preco": 11.00,
+      "categoria": "Salgados",
+      "imagem": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=400"
+    },
+    {
+      "id": 20,
+      "nome": "Quiche",
+      "descricao": "Quiche de queijo e presunto",
+      "preco": 13.00,
+      "categoria": "Salgados",
+      "imagem": "https://images.unsplash.com/photo-1588137378633-dea1336ce1e2?w=400"
+    },
+    {
+      "id": 21,
+      "nome": "Coxinha",
+      "descricao": "Coxinha de frango cremosa",
+      "preco": 6.50,
+      "categoria": "Salgados",
+      "imagem": "https://images.unsplash.com/photo-1618040996337-56904b7850b9?w=400"
+    },
+    {
+      "id": 22,
+      "nome": "Empada",
+      "descricao": "Empada de palmito",
+      "preco": 7.00,
+      "categoria": "Salgados",
+      "imagem": "https://images.unsplash.com/photo-1612809764768-9cf3daae4815?w=400"
+    },
+    {
+      "id": 23,
+      "nome": "Suco de Laranja",
+      "descricao": "Suco natural de laranja",
+      "preco": 8.00,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400"
+    },
+    {
+      "id": 24,
+      "nome": "Smoothie",
+      "descricao": "Smoothie de frutas vermelhas",
+      "preco": 12.00,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?w=400"
+    },
+    {
+      "id": 25,
+      "nome": "Chá Gelado",
+      "descricao": "Chá gelado de pêssego",
+      "preco": 7.00,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400"
+    },
+    {
+      "id": 26,
+      "nome": "Limonada",
+      "descricao": "Limonada suíça refrescante",
+      "preco": 8.50,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1523677011781-c91d1bbe2f9e?w=400"
+    },
+    {
+      "id": 27,
+      "nome": "Chá Verde",
+      "descricao": "Chá verde quente tradicional",
+      "preco": 6.00,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=400"
+    },
+    {
+      "id": 28,
+      "nome": "Chocolate Quente",
+      "descricao": "Chocolate quente cremoso",
+      "preco": 9.00,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1517578239113-b03992dcdd25?w=400"
+    },
+    {
+      "id": 29,
+      "nome": "Água de Coco",
+      "descricao": "Água de coco natural gelada",
+      "preco": 7.50,
+      "categoria": "Bebidas",
+      "imagem": "https://images.unsplash.com/photo-1585671274331-623770a5954d?w=400"
+    },
+    {
+      "id": 30,
+      "nome": "Açaí Bowl",
+      "descricao": "Açaí com granola e frutas",
+      "preco": 16.00,
+      "categoria": "Especiais",
+      "imagem": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=400"
+    }
+  ]
+}
